@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # keepalive アクションが GitHub API を利用するために必要
 
 jobs:
   update-rss:
@@ -17,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # rebase を安全に行うため全履歴を取得
           
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,7 +51,17 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update RSS feed [skip ci]"
+            # リモートの変更を取り込んでからプッシュ（競合回避）
+            git pull --rebase origin ${{ github.ref_name }}
             git push
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 60日間の無効化対策（keepalive）
+      - name: Keepalive（ワークフロー無効化防止）
+        if: always()
+        uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
+        with:
+          COMMIT_MESSAGE: "Keepalive: ワークフロー無効化防止"
+          TIME_ELAPSED_THRESHOLD_IN_DAYS: 50
