@@ -7,15 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:08:00 +0900</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 14:08:00 +0900</pubDate>
-    <item>
-      <title>インドが推進する「新興国型」AI政策</title>
-      <link>https://www.jri.co.jp/page.jsp?id=114014</link>
-      <description>インドが推進する「新興国型」AI政策 - 日本総研 アジア・新興国経済レポート</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114014</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 14:52:24 +0900</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 14:52:24 +0900</pubDate>
     <item>
       <title>製造強国を目指す中国の新5カ年計画</title>
       <link>https://www.jri.co.jp/page.jsp?id=114016</link>
@@ -358,6 +351,13 @@
       <description>「８％成長」を急ぐインドネシア、中央銀行への政治介入を強化 ― 中銀の独立性低下が、実体経済の足かせになるリスクも ― - 日本総研 アジア・新興国経済レポート</description>
       <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114862</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>重要鉱物の安定供給に向けたインドの取り組み</title>
+      <link>https://www.jri.co.jp/page.jsp?id=120958</link>
+      <description>重要鉱物の安定供給に向けたインドの取り組み - 日本総研 アジア・新興国経済レポート</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=120958</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
