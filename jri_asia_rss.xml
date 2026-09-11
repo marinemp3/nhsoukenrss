@@ -7,22 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:52:24 +0900</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 14:52:24 +0900</pubDate>
-    <item>
-      <title>製造強国を目指す中国の新5カ年計画</title>
-      <link>https://www.jri.co.jp/page.jsp?id=114016</link>
-      <description>製造強国を目指す中国の新5カ年計画 - 日本総研 アジア・新興国経済レポート</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114016</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FOIPの進化と揺らぐルールに基づく経済秩序―IPEF型枠組みの必要性</title>
-      <link>https://www.jri.co.jp/page.jsp?id=114042</link>
-      <description>FOIPの進化と揺らぐルールに基づく経済秩序―IPEF型枠組みの必要性 - 日本総研 アジア・新興国経済レポート</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114042</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 14:15:36 +0900</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 14:15:36 +0900</pubDate>
     <item>
       <title>中東危機とインドのエネルギー安全保障戦略 ～ 日本はエネルギー構造の転換に伴う商機に注目すべき ～</title>
       <link>https://www.jri.co.jp/page.jsp?id=114060</link>
@@ -358,6 +344,20 @@
       <description>重要鉱物の安定供給に向けたインドの取り組み - 日本総研 アジア・新興国経済レポート</description>
       <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=120958</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ＡＩ・ロボットが深めるアジアの「中所得国の罠」 ― 内外需双方での「課題解決型」成長モデルへの転換が急務 ―</title>
+      <link>https://www.jri.co.jp/page.jsp?id=121004</link>
+      <description>ＡＩ・ロボットが深めるアジアの「中所得国の罠」 ― 内外需双方での「課題解決型」成長モデルへの転換が急務 ― - 日本総研 アジア・新興国経済レポート</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=121004</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>過剰生産能力批判に反発を強める中国政府</title>
+      <link>https://www.jri.co.jp/page.jsp?id=121019</link>
+      <description>過剰生産能力批判に反発を強める中国政府 - 日本総研 アジア・新興国経済レポート</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=121019</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
