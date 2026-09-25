@@ -7,15 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:14:49 +0900</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 14:14:49 +0900</pubDate>
-    <item>
-      <title>タイ経済を脅かす輸出競争力の低下と周辺国リスクの高まり</title>
-      <link>https://www.jri.co.jp/page.jsp?id=114068</link>
-      <description>タイ経済を脅かす輸出競争力の低下と周辺国リスクの高まり - 日本総研 アジア・新興国経済レポート</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114068</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 14:15:40 +0900</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 14:15:40 +0900</pubDate>
     <item>
       <title>「パワーアジア」による供給網再編への期待：イラン情勢悪化が日ASEAN連携見直しの機会に</title>
       <link>https://www.jri.co.jp/page.jsp?id=114074</link>
@@ -358,6 +351,13 @@
       <description>OECDとBRICS への加盟を目指すASEAN 諸国の思惑 - 日本総研 アジア・新興国経済レポート</description>
       <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=121017</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SEMICON India 2026からみるインド半導体市場の2つの変化</title>
+      <link>https://www.jri.co.jp/page.jsp?id=121083</link>
+      <description>SEMICON India 2026からみるインド半導体市場の2つの変化 - 日本総研 アジア・新興国経済レポート</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=121083</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
