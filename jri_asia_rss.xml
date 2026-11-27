@@ -7,29 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 22:55:21 +0900</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 22:55:21 +0900</pubDate>
-    <item>
-      <title>アジアの通貨安、米イラン合意後も中東危機の再燃がリスク ― インフレや利上げによる内需下押し、債務負担の増大による金融不安定化に要警戒 ―</title>
-      <link>https://www.jri.co.jp/page.jsp?id=114375</link>
-      <description>アジアの通貨安、米イラン合意後も中東危機の再燃がリスク ― インフレや利上げによる内需下押し、債務負担の増大による金融不安定化に要警戒 ― - 日本総研 アジア・新興国経済レポート</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114375</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【サプライチェーン再編シリーズ⑦】タングステン価格急騰と重要鉱物サプライチェーン再編への追い風 ― 中国規制・軍需拡大・備蓄競争がもたらす構造変化 ―</title>
-      <link>https://www.jri.co.jp/page.jsp?id=114390</link>
-      <description>【サプライチェーン再編シリーズ⑦】タングステン価格急騰と重要鉱物サプライチェーン再編への追い風 ― 中国規制・軍需拡大・備蓄競争がもたらす構造変化 ― - 日本総研 アジア・新興国経済レポート</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=114390</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国経済展望2026年７月号：景気は減速局面へ</title>
-      <link>https://www.jri.co.jp/file/report/china/pdf/16791.pdf</link>
-      <description>PDFファイル (918KB)</description>
-      <guid isPermaLink="true">https://www.jri.co.jp/file/report/china/pdf/16791.pdf</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 23:52:15 +0900</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 23:52:15 +0900</pubDate>
     <item>
       <title>アジア・マンスリー2026年7月号</title>
       <link>https://www.jri.co.jp/file/report/asia/pdf/16792.pdf</link>
@@ -358,6 +337,27 @@
       <description>中国の少子化対応の過去・現在 - 日本総研 アジア・新興国経済レポート</description>
       <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=125546</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済展望2026年12月号：成長率目標は達成見込みも、景気は減速</title>
+      <link>https://www.jri.co.jp/file/report/china/pdf/17134.pdf</link>
+      <description>PDFファイル (912KB)</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/file/report/china/pdf/17134.pdf</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【2026～28年アジア経済見通し】景気のばらつきが強まるアジア経済～AI特需の裏に潜む、短期と長期の二重リスク～</title>
+      <link>https://www.jri.co.jp/page.jsp?id=125682</link>
+      <description>【2026～28年アジア経済見通し】景気のばらつきが強まるアジア経済～AI特需の裏に潜む、短期と長期の二重リスク～ - 日本総研 アジア・新興国経済レポート</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=125682</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インド株は巻き返しを図れるか ― 世界的なＡＩ関連株の調整で注目が集まるも、内需は弱含み ―</title>
+      <link>https://www.jri.co.jp/page.jsp?id=125690</link>
+      <description>インド株は巻き返しを図れるか ― 世界的なＡＩ関連株の調整で注目が集まるも、内需は弱含み ― - 日本総研 アジア・新興国経済レポート</description>
+      <guid isPermaLink="true">https://www.jri.co.jp/page.jsp?id=125690</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
